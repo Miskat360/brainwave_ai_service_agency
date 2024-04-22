@@ -1,0 +1,18 @@
+.benefitsBgUrlCss {
+  background-image: url("../../app/assets/benefits/card-1.svg");
+  &:nth-child(2) {
+    background-image: url("../../app/assets/benefits/card-2.svg");
+  }
+  &:nth-child(3) {
+    background-image: url("../../app/assets/benefits/card-3.svg");
+  }
+  &:nth-child(4) {
+    background-image: url("../../app/assets/benefits/card-4.svg");
+  }
+  &:nth-child(5) {
+    background-image: url("../../app/assets/benefits/card-5.svg");
+  }
+  &:nth-child(6) {
+    background-image: url("../../app/assets/benefits/card-6.svg");
+  }
+}
